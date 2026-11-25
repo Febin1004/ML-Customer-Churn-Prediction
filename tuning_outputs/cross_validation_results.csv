@@ -1,0 +1,4 @@
+Model,Best CV F1,Best Parameters
+Random Forest,0.44638530906934565,"{'model__n_estimators': 200, 'model__min_samples_split': 10, 'model__min_samples_leaf': 1, 'model__max_features': 'sqrt', 'model__max_depth': 10}"
+Logistic Regression,0.4384404422151144,{'model__C': 0.01}
+Gradient Boosting,0.3070231639703126,"{'model__n_estimators': 200, 'model__min_samples_leaf': 4, 'model__max_depth': 2, 'model__learning_rate': 0.05}"

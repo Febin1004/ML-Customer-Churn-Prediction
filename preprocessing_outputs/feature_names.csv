@@ -1,0 +1,14 @@
+Feature
+num__CreditScore
+num__Age
+num__Tenure
+num__Balance
+num__EstimatedSalary
+cat__Geography_France
+cat__Geography_Germany
+cat__Geography_Spain
+cat__Gender_Female
+cat__Gender_Male
+pass__NumOfProducts
+pass__HasCrCard
+pass__IsActiveMember
